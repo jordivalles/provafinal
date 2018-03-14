@@ -1,4 +1,6 @@
 arxiu prova2
 
-
 usuari a modificant un arxiu diferent
+----
+
+usuari B actualitzo aquest arxiu
