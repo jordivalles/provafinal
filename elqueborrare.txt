@@ -1,1 +1,4 @@
 arxiu que borrare i recuperare
+
+
+el usuari A he modificat aquest arxiu
