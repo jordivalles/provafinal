@@ -4,3 +4,5 @@ el user b he modifcat el arxiu
 
 ----
 usuari A actualitzo aquest arxiu
+
+usuari A modifico la linia 8
