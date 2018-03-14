@@ -1,1 +1,3 @@
 arxiu de manteniment per a la versio 1.1
+
+actualitzacio arxiu de manteniment de la versio 1.1
