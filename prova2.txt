@@ -4,3 +4,9 @@ usuari a modificant un arxiu diferent
 ----
 
 usuari B actualitzo aquest arxiu
+
+
+
+/////////////////////////////
+
+NOU BLOC USUARI A ESCRIC AQUI
