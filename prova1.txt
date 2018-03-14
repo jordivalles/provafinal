@@ -10,3 +10,8 @@ usuari b estic modificant la mateixa linia 8
 =======
 usuari A modifico la linia 8
 
+
+
+//////////////////////
+
+USUARI B BLOC ESCRIC AQUI AL PROVA1
