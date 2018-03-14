@@ -5,4 +5,8 @@ el user b he modifcat el arxiu
 ----
 usuari A actualitzo aquest arxiu
 
+usuari A i B aquesta linia es la modificada despres del git pull origin
 usuari b estic modificant la mateixa linia 8
+=======
+usuari A modifico la linia 8
+
