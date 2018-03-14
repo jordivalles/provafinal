@@ -1,3 +1,6 @@
 arxiu prova1
 
 el user b he modifcat el arxiu
+
+----
+usuari A actualitzo aquest arxiu
