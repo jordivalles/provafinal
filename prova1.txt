@@ -1,1 +1,3 @@
 arxiu prova1
+
+el user b he modifcat el arxiu
